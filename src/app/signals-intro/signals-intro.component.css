@@ -1,3 +1,9 @@
 :host {
     color: #e8e8e4; 
   }
+
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
